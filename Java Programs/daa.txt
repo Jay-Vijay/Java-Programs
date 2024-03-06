@@ -1,6 +1,0 @@
-3a.find duplicate in array given a read only array of n+1 integers between 1 and n find one number that repeats
-input format:no.of elements then n lines la n elements
-output format:the no that repeats
-3b.bubble sort 
-3c.given a array A of sorted integers and anothert non negative integer k find if there exists two integers i and j such that a(j)-a(i)=k  is not equal to j 
-3d.find the intersection of two sorted array or in other words given two sorted array find all the elements that occur in both the arrays
